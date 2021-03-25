@@ -75,6 +75,7 @@ Chapter 9: Objects
       Exercise 45: Zoo
     
 Chapter 10: Iterators and generators
+
       Exercise 46: MyEnumerate
       Exercise 47: Circle
       Exercise 48: All lines, all files
